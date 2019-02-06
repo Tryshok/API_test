@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="API_TEST" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\EXIA\\2-PROJETS\\A5\\API_Test\\API_Test\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\EXIA\\2-PROJETS\\A5\\API_Test\\API_Test\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
